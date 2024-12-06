@@ -5,10 +5,10 @@ import pandas as pd
 pdf_file = "cofap.pdf"
 
 # Página a ser processada
-page_to_extract = 6
+page_to_extract = 86
 
 # Nome do arquivo de saída
-output_file = "tabela_pagina_6.xlsx"
+output_file = "tabela_pagina_86.xlsx"
 
 try:
     # Extrai tabelas da página usando Tabula
